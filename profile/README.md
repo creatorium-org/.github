@@ -4,7 +4,7 @@
 
 #LocaFi
 
-LocaFi is a <h1>müq</h1> project developed with Flutter & Java.
+LocaFi is a <h4>müq<h4> project developed with Flutter & Java.
 
 ## ALL DOCS BEGIN
 
