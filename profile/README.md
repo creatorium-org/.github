@@ -2,7 +2,7 @@
 
 
 
-# Creaotirum Apps
+# Creatorium Apps
 
 ### Creaotirum is developing müq projects  with Flutter & Java and hate php.
 
